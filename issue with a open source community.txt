@@ -1,10 +1,10 @@
 오픈 소스 SW 커뮤니티의 논쟁
-==============================
+==========================
 
 자료조사 보고서 ; 박예림
 
 배경 ; 
-------
+-----
 <Linux Has a Code of Conduct and Not Everyone is Happy With it> ; <https://itsfoss.com/linux-code-of-conduct/>
 
 ####번역
