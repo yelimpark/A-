@@ -267,9 +267,9 @@ https://www.contributor-covenant.org/ko/version/1/4/code-of-conduct.html 에서
 
 저자 ; 마소팀
 
-"오픈소스의 경제학"
+https://books.google.co.kr/books?id=_FFJDwAAQBAJ&pg=PA7&lpg=PA7&dq=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EC%83%81%EC%97%85%EC%84%B1+%EB%85%BC%EC%9F%81&source=bl&ots=qsFYL13p8V&sig=XYhePFdribvDggyZQggmPd6wFb4&hl=ko&sa=X&ved=2ahUKEwiN_ouZt_3dAhUM7bwKHa1-AuMQ6AEwA3oECAYQAQ#v=onepage&q=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%83%81%EC%97%85%EC%84%B1%20%EB%85%BC%EC%9F%81&f=false
 
-앞서 무보수 프로그래머들이 
+이북으로 앞부분 올라와있는데 역사면이나 아니면 우리도 오픈소스의 확장에대해 글이 잘써져있음.
 
 
 
