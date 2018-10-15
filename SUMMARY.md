@@ -1,6 +1,5 @@
 # Table of contents
 
-* [INTRODUCE](INTRODUCE.txt)
 * [A+조라조](README.md)
 * [오픈소스의 역사](history.md)
 * [controversy](controversy.md)
