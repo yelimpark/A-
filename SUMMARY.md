@@ -9,4 +9,5 @@
     * [리누스의 새로운 Code of Conduct, 찬성하시나요?](gitbook/오픈소스와_논쟁_coc.md)
     * [자유 소프트웨어 vs 오픈소스 소프트웨어](gitbook/오픈소스와_논쟁_free.md)
 * [오픈소스 커뮤니티](gitbook/오픈소스_커뮤니티.md)
+* [오픈소스의 확장](gitbook/오픈소스의_확장.md)
 * [Introduction](README.md)
