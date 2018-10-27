@@ -33,7 +33,7 @@ _박예림_
 
 이글이 여러분의 coc와 이를 둘러싼 논쟁에대한 이해를 도울 수 있었으면 좋겠다. 마지막 질문은 이 글의 핵심이자 가장 중요한 질문이다. **당신은 ‘Contributor Covenant Code of Conduct’에 찬성하는가?**
 
-### 각주
+----
 
 * **“Code of Conduct”** : 본문에선 coc로 대체한다. 전문은 [링크](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f)    
 * **Yellow** : \(금기어\) 누런둥이\(동아시아 국가 사람들을 모욕적으로 가리킬 때 씀\)    
