@@ -45,6 +45,7 @@ ol{
 }
 .details{
     font-size: 20px;
+    color: rosybrown;
 }
 .next{
     position: absolute;
@@ -65,6 +66,9 @@ ol{
     background-color: gray;
     padding: 3px;
     color: black;
+}
+a.deco{
+    color: aqua;
 }
 a{
     text-decoration: none;
@@ -92,4 +96,11 @@ p.center{
 }
 div.askew{
     font-style: oblique;
+}
+div.center{
+    margin-left: 20px;
+}
+img.box{
+    border: solid 1px white;
+    background-color: white;
 }
