@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+}
+div.main_text{
+    border: 2px black solid;
+    height: 89vh;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    text-align: left;
+    overflow-y: scroll;
+}
+ul.text{
+    font-size: 15px;
+}
+ul{
+    font-size: 20px;
+    color: white;
+}
+ol.text{
+    font-size: 15px;
+    list-style-type: upper-roman;
+}
+ol{
+    font-size: 15px;
+    padding: 10px;
+}
+.title{
+    font-size: 35px;
+}
+.left-box {
+    float: left;
+    width: 24%;
+    height: 100vh;
+    background-color: black;
+}
+
+.right-box {
+    float: right;
+    width: 76%;
+    height: 100vh;
+    background-color: white;
+}
+.details{
+    font-size: 20px;
+}
+.next{
+    position: absolute;
+    bottom: 15px;;
+    right: 10px;
+    font-size: 20px;
+    border: outset 2px gray;
+    background-color: gray;
+    padding: 3px;
+    color: black;
+}
+.back{
+    position: absolute;
+    bottom: 15px;
+    left: 24.65%;
+    font-size: 20px;
+    border: outset 2px gray;
+    background-color: gray;
+    padding: 3px;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+strong.strong{
+    font-style: oblique;
+}
+h2{
+    margin-top: 5px; 
+}
+.page_num{
+    position: absolute;
+    bottom: 25px;
+    left: 60.5%;
+}
+h1{
+    margin-top: 0;
+    color: rosybrown;
+}
+p.center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.askew{
+    font-style: oblique;
+}
